@@ -1,0 +1,13 @@
+.head {
+    font-size: 20px;
+    text-align: center ;
+    background-color: black;
+    color: white;
+    font-family: impact;
+    letter-spacing: 10px;
+}
+
+.head:hover {
+    font-size: 30px;
+    background-color: rgb(12, 53, 12);
+}
